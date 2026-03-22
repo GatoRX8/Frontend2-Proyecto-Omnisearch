@@ -1,5 +1,28 @@
-# 🚀 Frontend II Project - Environment Setup
+# OmniSearch: Professional Talent & Repo Explorer
+OmniSearch es una aplicación web de escritorio diseñada para la exploración eficiente de perfiles y repositorios dentro del ecosistema de GitHub. Construida sobre una arquitectura de Single Page Application (SPA) utilizando Vanilla JavaScript y Vite, la plataforma ofrece una interfaz técnica y limpia para desarrolladores y reclutadores que buscan analizar talento o proyectos de código abierto en tiempo real.
 
+🛠️ Características Principales
+Búsqueda Global: Consumo dinámico de la REST API de GitHub para localizar usuarios y repositorios con resultados inmediatos.
+
+Visualización de Métricas: Tarjetas de datos detalladas que muestran estadísticas clave como stars, forks, lenguajes predominantes y actividad reciente.
+
+Interfaz Profesional: Diseño optimizado para PC utilizando Bootstrap 5, con un enfoque en la legibilidad y la jerarquía de información.
+
+Navegación Fluida: Sistema de rutas personalizado que permite transiciones entre la vista de búsqueda y el detalle técnico sin recargar el navegador.
+
+🧪 Stack Tecnológico
+Core: JavaScript (ES6+) - Vanilla.
+
+Build Tool: Vite.
+
+UI Framework: Bootstrap 5.
+
+Data Source: GitHub REST API.
+
+🍀 Personalización y "Easter Eggs"
+La aplicación incluye una estética "Emerald & Steel", combinando una paleta de colores verde bosque profundo con acabados industriales en gris mate. Como detalle adicional para entusiastas, el sistema cuenta con comandos de búsqueda ocultos y atajos de teclado que desbloquean temas visuales alternativos inspirados en la cultura irlandesa y la estética mecánica.
+
+<!--
 This repository contains the initial configuration required for our projects. We will use a professional workflow that includes static code analysis, automatic formatting, and mandatory unit testing.
 
 ## 🛠️ Tools Used
@@ -104,3 +127,4 @@ Husky only checks the files you *staged* for that specific commit. GitHub Action
 
 **3. "I am getting a 'node_modules' or caching error in GitHub Actions."**
 Sometimes CI runners get stuck with outdated packages. If you recently added a new dependency, ensure your `package-lock.json` was committed and pushed alongside your `package.json`.
+-->
