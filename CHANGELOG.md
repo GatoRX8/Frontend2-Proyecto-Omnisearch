@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/GatoRX8/Frontend2-Proyecto-Omnisearch/compare/v1.0.0...v1.0.1) (2026-03-23)
+
+
+### Bug Fixes
+
+* resolve vite build error by creating missing index.html ([ac34224](https://github.com/GatoRX8/Frontend2-Proyecto-Omnisearch/commit/ac34224ad848696e49b30dcccf14fa296be28d21))
+
 # 1.0.0 (2026-03-22)
 
 
