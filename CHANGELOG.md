@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/GatoRX8/Frontend2-Proyecto-Omnisearch/compare/v1.0.1...v1.0.2) (2026-03-23)
+
+
+### Bug Fixes
+
+* add vite to devDependencies ([50fb3c8](https://github.com/GatoRX8/Frontend2-Proyecto-Omnisearch/commit/50fb3c898b1c6813e10d19777e04598b3faa4e30))
+
 ## [1.0.1](https://github.com/GatoRX8/Frontend2-Proyecto-Omnisearch/compare/v1.0.0...v1.0.1) (2026-03-23)
 
 
